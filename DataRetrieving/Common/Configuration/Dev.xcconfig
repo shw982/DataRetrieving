@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  DataRetrieving
+//
+//  Created by Sweta Jaiswal on 02/05/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+BASE_URL = https:/$()/jsonplaceholder.typicode.com/
